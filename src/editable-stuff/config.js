@@ -10,24 +10,6 @@ const mainBody = {
   middleName: "",
   lastName: "Pelizaro",
   message: " Desenvolvedor Júnior amante da tecnologia. ",
-  icons: [
-    {
-      image: "fa-github",
-      url: "https://github.com/ArthurPelizaro",
-    },
-    {
-      image: "bi bi-facebook",
-      url: "https://www.facebook.com/arthur.antonio.988/",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/arthur_pelizaro/",
-    },
-    {
-      image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/arthur-pelizaro-2b5b49235/",
-    },
-  ],
 };
 
 const about = {
@@ -50,7 +32,6 @@ const repos = {
   heading: "Projetos Recentes",
   gitHubUsername: "ArthurPelizaro",
   reposLength: 4,
-  specificRepos: [],
 };
 
 // Leadership SECTION

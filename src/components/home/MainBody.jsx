@@ -1,6 +1,8 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
 import Typist from 'react-typist-component';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub, faInstagram, faFacebookF, faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
 import { Jumbotron } from "./migration";
 
 const MainBody = React.forwardRef(
@@ -26,17 +28,13 @@ const MainBody = React.forwardRef(
             </div>
           </Typist>
           <div className="p-5">
-            {icons.map((icon, index) => (
-              <a
-                key={`social-icon-${index}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                href={icon.url}
-                aria-label={`My ${icon.image.split("-")[1]}`}
-              >
-                <i className={`fab ${icon.image}  fa-3x socialicons`} />
-              </a>
-            ))}
+            <a className="socialicons" target="_blank" rel="noopener noreferrer" href="https://github.com/ArthurPelizaro">
+            <FontAwesomeIcon icon={faGithub} />
+            </a>
+            <a className="socialicons" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/arthur_pelizaro/"><FontAwesomeIcon icon={faInstagram} /></a>
+            <a className="socialicons" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/arthur.antonio.988/"><FontAwesomeIcon icon={faFacebookF} /></a>
+            <a className="socialicons" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/arthur-pelizaro-2b5b49235/"><FontAwesomeIcon icon={faLinkedinIn} /></a>
+          
           </div>
           <a
             className="btn btn-outline-light btn-lg "
