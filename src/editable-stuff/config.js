@@ -32,6 +32,7 @@ const repos = {
   heading: "Projetos Recentes",
   gitHubUsername: "ArthurPelizaro",
   reposLength: 4,
+  specificRepos: [],
 };
 
 // Leadership SECTION
