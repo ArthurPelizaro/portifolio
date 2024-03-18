@@ -18,7 +18,7 @@ const about = {
   imageLink: require("../editable-stuff/teste.png"),
   imageSize: 375,
   message:
-    "Meu nome é Arthur e sou um desenvolvedor júnior com foco em back-end e front-end. Atualmente, estou cursando o último semestre do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal do Triângulo Mineiro - CAMPUS ITUIUTABA, com previsão de formatura em dezembro de 2023.",
+    "Meu nome é Arthur e sou um desenvolvedor júnior com foco em back-end. Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Triângulo Mineiro - CAMPUS ITUIUTABA.",
   resume: "https://1drv.ms/b/s!AuzOQJix8_8ZhFHfPGycJXr358YY?e=8zZdep",
 };
 
