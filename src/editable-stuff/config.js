@@ -19,7 +19,7 @@ const about = {
   imageSize: 375,
   message:
     "Meu nome é Arthur e sou um desenvolvedor júnior com foco em back-end. Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Triângulo Mineiro - CAMPUS ITUIUTABA.",
-  resume: "https://1drv.ms/b/s!AuzOQJix8_8ZhFHfPGycJXr358YY?e=8zZdep",
+  resume: "https://1drv.ms/b/c/19fff3b19840ceec/EezOQJix8_8ggBlRAgAAAAABZ1S7LC-Hwlmv_3tWJDbtlw?e=aAeeAh",
 };
 
 // PROJECTS SECTION
