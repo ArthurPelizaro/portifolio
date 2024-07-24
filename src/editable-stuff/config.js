@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Arthur",
   middleName: "",
   lastName: "Pelizaro",
-  message: " Desenvolvedor Júnior amante da tecnologia. ",
+  message: " Desenvolvedor Full-Stack amante da tecnologia. ",
 };
 
 const about = {
@@ -18,7 +18,7 @@ const about = {
   imageLink: require("../editable-stuff/teste.png"),
   imageSize: 375,
   message:
-    "Meu nome é Arthur e sou um desenvolvedor júnior com foco em back-end. Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Triângulo Mineiro - CAMPUS ITUIUTABA.",
+    "Meu nome é Arthur e sou um desenvolvedor e engenheiro de software Full-Stack. Sou tecnólogo em Análise e Desenvolvimento de Sistemas formado pelo Instituto Federal do Triângulo Mineiro - CAMPUS ITUIUTABA.",
   resume: "https://1drv.ms/b/c/19fff3b19840ceec/EezOQJix8_8ggBlRAgAAAAABZ1S7LC-Hwlmv_3tWJDbtlw?e=aAeeAh",
 };
 
